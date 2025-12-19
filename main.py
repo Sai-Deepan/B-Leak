@@ -25,3 +25,7 @@ async def main():
     print("Scan stopped")
 
 asyncio.run(main())
+
+# Repeating the same device multiple times
+# Not a structured format
+# Need more data
